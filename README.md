@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **srn_docs_stat** repository, a versatile toolkit designed to streamline the process of downloading data from the SRN documents database API and performing essential summary statistical analyses on the acquired data. This repository is a resource for gaining insights into the dataset's characteristics.
+Welcome to the **srn_docs_stat** repository, a toolkit designed to streamline the process of downloading data from the SRN documents database API and performing essential summary statistical analyses on the acquired data. This repository is a resource for gaining insights into the dataset's characteristics.
 
 ## Functionality
 
